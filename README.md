@@ -6,3 +6,5 @@ I have worked on two datasets namely CIFAR10 and MNIST which can be included fro
 Changes can be made to the code. You change the number of epochs and the hyperparameters accordingly. 
 
 Images generated in stored in the "/results/" folder which is then compared with the real image fed in.
+
+PyTorch with CUDA support is recommended if you're chosing a high number for epochs.
